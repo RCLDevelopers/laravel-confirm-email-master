@@ -5,13 +5,13 @@
         "beyondcode",
         "laravel-confirm-email"
     ],
-    "homepage": "https://github.com/beyondcode/laravel-confirm-email",
+    "homepage": "https://github.com/RCLDevelopers/laravel-confirm-email-master",
     "license": "MIT",
     "authors": [
         {
-            "name": "Marcel Pociot",
-            "email": "marcel@beyondco.de",
-            "homepage": "https://beyondcode.de",
+            "name": "Zangtics Digital",
+            "email": "info@zangticsdigital.com",
+            "homepage": "https://zangticsdigital.com/",
             "role": "Developer"
         }
     ],
